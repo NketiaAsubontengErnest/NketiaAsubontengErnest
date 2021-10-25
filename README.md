@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NketiaAsubontengErnest
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning php, python, Java and more
+- 💞️ I’m looking to collaborate on git
+- 📫 How to reach me +233554013980,nketiaernest18@gmail.com
