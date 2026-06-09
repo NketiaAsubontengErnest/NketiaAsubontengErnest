@@ -24,4 +24,4 @@ Results-driven Software Engineer with over 3 years of experience specializing in
 
 * 🌐 **Portfolio:** [ernestnketiaasubonteng.netlify.app](https://ernestnketiaasubonteng.netlify.app)[cite: 1]
 * 📧 **Email:** [nketiaernest18@gmail.com](mailto:nketiaernest18@gmail.com) / [ernestnketiaasubonteng@gmail.com](mailto:ernestnketiaasubonteng@gmail.com)[cite: 1]
-* 📞 **Phone:** [+233 554 013 980](tel:+233554013980) | [+233 534 395 818](tel:+233534395818)
+* 📞 **Phone:** <a href="tel:+233554013980">+233 554 013 980</a> | <a href="tel:+233534395818">+233 534 395 818</a>
