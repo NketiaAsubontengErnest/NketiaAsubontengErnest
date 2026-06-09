@@ -17,7 +17,7 @@ Results-driven Software Engineer with over 3 years of experience specializing in
 ### 🏅 Certifications & Professional Badges
 
 * 🎓 [Google AI Certificate](https://coursera.org/share/6ccaae077f737a1fcbc7adb84d401957): Verify Credentials on Coursera
-* 🏅 [Verified Professional Badges](https://www.credly.com/users/ernest-nketia-asubonteng): View my Credly Profile
+* 🏅 [Verified Professional Badges](https://www.credly.com/users/ernest-nketia-asubonteng): View my Credly Profile & Social Media Pages
 * 🏆 **Best Software Developer / IT Personnel of the Year (2023):** UMB Awards.
 
 ### 📫 Connect with Me
