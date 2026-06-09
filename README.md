@@ -3,5 +3,5 @@
 - 🌱 I’m currently writting PHP(MVC, Laravel), C, C#(ASP.Net), Dart(Fluter), VB(VB.Net), Python(Django) and Java(JSwing)
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me +233554013980, nketiaernest18@gmail.com
-Google Badges: https://www.credly.com/users/ernest-nketia-asubonteng
-Google AI Certicate: https://coursera.org/share/6ccaae077f737a1fcbc7adb84d401957 
+- Google Badges: https://www.credly.com/users/ernest-nketia-asubonteng
+- Google AI Certicate: https://coursera.org/share/6ccaae077f737a1fcbc7adb84d401957 
