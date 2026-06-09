@@ -1,39 +1,29 @@
-👋 Hi, I'm Ernest Nketia Asubonteng (@NketiaAsubontengErnest)
+- 👋 Hi, I’m @NketiaAsubontengErnest
+- 🚀 Software Engineer & Database Administrator[cite: 1]
 
-🚀 Software Engineer & Database Administrator
+Results-driven Software Engineer with over 3 years of experience specializing in full-stack development, relational database administration, and software architecture[cite: 1]. Currently pursuing an MSc in Computer Science at the University of Ghana[cite: 1].
 
-Results-driven Software Engineer with over 3 years of experience specializing in full-stack development, relational database administration, and software architecture. Currently pursuing an MSc in Computer Science at the University of Ghana.
+### 💻 Technical Stack & Specialties
 
-💻 Technical Stack & Specialties
+* **Languages:** PHP (MVC, Laravel), Python (Django), JavaScript, React, Next.js, Dart (Flutter), C# (ASP.Net), C, VB (VB.Net), Java (JSwing)[cite: 1]
+* **Databases & APIs:** SQL, PostgreSQL, MySQL, MSSQL, Entity Framework, RESTful APIs[cite: 1]
+* **Methodologies & Systems:** Agile SDLC, Object-Oriented Design (OOD), Requirements Analysis, Version Control (Git)[cite: 1]
+* **Core Focus:** Software Architecture, Database Administration, Systems Optimization, Data Security & Compliance[cite: 1]
 
-Languages: PHP (MVC, Laravel), Python (Django), JavaScript, React, Next.js, Dart (Flutter), C# (ASP.Net), C, VB (VB.Net), Java (JSwing)
+### 🛠️ Featured Projects
 
-Databases & APIs: SQL, PostgreSQL, MySQL, MSSQL, Entity Framework, RESTful APIs
+* 🏪 [Anek POS](https://edu.anekpos.com): A commercial retail and inventory point-of-sale platform built with robust backend relational database management[cite: 1].
+* 📚 [Don Publication Platform](https://donpubltd.com): End-user web application managed and scaled using modern software development life cycles[cite: 1].
+* 🎓 [MAI Education](https://maieducation.com): A collaborative software platform optimized for enhanced performance, user engagement, and data safety[cite: 1].
 
-Methodologies & Systems: Agile SDLC, Object-Oriented Design (OOD), Requirements Analysis, Version Control (Git)
+### 🏅 Certifications & Professional Badges
 
-Core Focus: Software Architecture, Database Administration, Systems Optimization, Data Security & Compliance
+* 🎓 [Google AI Certificate](https://coursera.org/share/6ccaae077f737a1fcbc7adb84d401957): Verify Credentials on Coursera
+* 🏅 [Verified Professional Badges](https://www.credly.com/users/ernest-nketia-asubonteng): View my Credly Profile
+* 🏆 **Best Software Developer / IT Personnel of the Year (2023):** UMB Awards[cite: 1]
 
-🛠️ Featured Projects
+### 📫 Connect with Me
 
-🏬 Anek POS: A commercial retail and inventory point-of-sale platform built with robust backend relational database management.
-
-📚 Don Publication Platform: An end-user educational and scientific web application managed and scaled using modern software development life cycles.
-
-🎓 MAI Education: A collaborative software platform optimized for enhanced performance, user engagement, and data safety.
-
-🎓 Certifications & Professional Badges
-
-🏅 Google AI Certificate: Verify Credentials on Coursera
-
-💼 Verified Professional Badges: View my Credly Profile
-
-🏆 Best Software Developer / IT Personnel of the Year (2023): UMB Awards
-
-📬 Connect with Me
-
-🌐 Portfolio: ernestnketiaasubonteng.netlify.app
-
-📧 Email: nketiaernest18@gmail.com / ernestnketiaasubonteng@gmail.com
-
-📞 Phone: +233 554 013 980
+* 🌐 **Portfolio:** [ernestnketiaasubonteng.netlify.app](https://ernestnketiaasubonteng.netlify.app)[cite: 1]
+* 📧 **Email:** [nketiaernest18@gmail.com](mailto:nketiaernest18@gmail.com) / [ernestnketiaasubonteng@gmail.com](mailto:ernestnketiaasubonteng@gmail.com)[cite: 1]
+* 📞 **Phone:** [+233 554 013 980](tel:+233554013980)[cite: 1]
