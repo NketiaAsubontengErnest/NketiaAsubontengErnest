@@ -1,5 +1,5 @@
-Hi, I’m @NketiaAsubontengErnest👋.
-Software Engineer & Database Administrator🚀.
+Hi, I’m @NketiaAsubontengErnest👋. \n
+Software Engineer & Database Administrator🚀. \n
 Results-driven Software Engineer with over 3 years of experience specializing in full-stack development, relational database administration, and software architecture. Currently pursuing an MSc in Computer Science at the University of Ghana.
 
 ### 💻 Technical Stack & Specialties
