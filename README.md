@@ -12,7 +12,8 @@ Results-driven Software Engineer with over 3 years of experience specializing in
 * **Core Focus:** Software Architecture, Database Administration, Systems Optimization, Data Security & Compliance.
 ### 🛠️ Featured Projects
 
-* 🏪 [Anek POS](https://edu.anekpos.com): A commercial retail and inventory point-of-sale platform built with robust backend relational database management.
+* 🏪 [Anek POS](https://anekpos.com): A commercial retail and inventory point-of-sale platform built with robust backend relational database management.
+* 🎓 [School Management System](https://edu.anekpos.com): A system that manage school student info, academic records, report management, fee management, etc.
 * 📚 [Don Publication Platform](https://donpubltd.com): End-user web application managed and scaled using modern software development life cycles.
 * 🎓 [MAI Education](https://maieducation.com): A collaborative software platform optimized for enhanced performance, user engagement, and data safety.
 
